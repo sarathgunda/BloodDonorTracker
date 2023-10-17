@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "184103409808",
+    "firebase_url": "https://madreview-983c4-default-rtdb.firebaseio.com",
+    "project_id": "madreview-983c4",
+    "storage_bucket": "madreview-983c4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:184103409808:android:12744f22bfa7fd31b4e015",
+        "android_client_info": {
+          "package_name": "com.example.mad_rv"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDYXV_5LfY_gwPZnivKnuQg-CaxMLtWX-E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
